@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
     private NavigationView navigationView;
     private ActivityMainBinding activityMainBinding;
     private String name="day la dư lieu moi";
-
+    private String name1="day la dư lieu moi";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
