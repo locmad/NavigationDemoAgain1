@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="fonttextview">
+        <item name="android:fontFamily">@font/blazed</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+   <style name="nut">
+       <item name="android:textColor">#ff00</item>
+       <item name="android:textSize">30sp</item>
+   </style>
+    <style name="mythem" parent="Theme.AppCompat.Light.NoActionBar" >
+        <item name="android:textColor">#E91E63</item>
+        <item name="android:textSize">30sp</item>
+    </style>
+</resources>
