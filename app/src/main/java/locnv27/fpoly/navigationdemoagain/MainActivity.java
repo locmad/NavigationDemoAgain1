@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
     private DrawerLayout drawerLayout;
     private NavigationView navigationView;
     private ActivityMainBinding activityMainBinding;
+    private String name="day la dư lieu moi";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
